@@ -116,17 +116,18 @@ header {
 }
 
 .header_top_btn .select_language select {
-	height: 30px;
-	border: 1px solid #eee;
-	border-radius: 3px;
-	font-size: 12px;
-	font-family: "Roboto", sans-serif;
-	font-weight: 500;
-	padding-left: 19px;
-	padding-right: 36px;
-	color: #777;
-	background: #f9f9ff;
-	margin-right: 5px;
+    height: 30px;
+    border: 1px solid #eee;
+    border-radius: 3px;
+    font-size: 12px;
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    padding-left: 19px;
+    padding-right: 36px;
+    color: #777;
+    background: #f9f9ff;
+    margin-right: 5px;
+    cursor: pointer;
 }
 
 .header_top_btn button.quote_btn {
